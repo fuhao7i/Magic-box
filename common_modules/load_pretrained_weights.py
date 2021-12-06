@@ -1,7 +1,7 @@
 
 """fuhao7i 2021.12.06"""
 
-weights_path = ''
+weights_path = './model.pth'
 print('+---------------------------------------------+')
 print('+   Loading weights into model state dict..   +')
 print('+---------------------------------------------+')
