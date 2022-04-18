@@ -15,3 +15,7 @@
 ### 2. tools
 
 [random_split_dataset.py](./datasets/tools/random_split_dataset.py): 随机划分训练集和测试集
+
+## C. MMSegmentation 训练自己的数据集
+
+[Code](./MMSegmentation/)
