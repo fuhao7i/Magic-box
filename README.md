@@ -3,10 +3,7 @@
 ## A. common_modules
 > lots of useful modules for procedures.
 
-### 1. load_pretrained_weights.py
-载入预训练权重
-
-[code](./common_modules/load_pretrained_weights.py)
+[load_pretrained_weights.py](./common_modules/load_pretrained_weights.py): 载入预训练权重
 
 ## B. datasets
 > Data preprocessing tools
